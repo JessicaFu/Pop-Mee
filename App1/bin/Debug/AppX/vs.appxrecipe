@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JJFU</Machine>
+    <WindowsUser>Teddy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fdd548c9-49b7-488d-b401-a8c3bf28db13</PackageIdentityName>
+    <RegisteredManifestChecksum>3E860A03180B82CAB820F9AC927C2C4658157CC06B27B28D43307622D7ED5AB9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fdd548c9-49b7-488d-b401-a8c3bf28db13_1.0.0.0_neutral__ck1k5wrkp1g7g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fdd548c9-49b7-488d-b401-a8c3bf28db13_ck1k5wrkp1g7g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fdd548c9-49b7-488d-b401-a8c3bf28db13</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Teddy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-29T21:08:16.664</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-08-26T16:46:02.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\images\heart.jpg">
+      <PackagePath>images\heart.jpg</PackagePath>
+      <Modified>2014-08-27T04:46:53.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T02:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T02:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T02:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T02:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-07-22T02:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\js\jquery-1.11.1.min.js">
+      <PackagePath>js\jquery-1.11.1.min.js</PackagePath>
+      <Modified>2014-08-26T01:26:45.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\js\startPage.js">
+      <PackagePath>js\startPage.js</PackagePath>
+      <Modified>2014-09-15T16:30:18.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\css\startPage.css">
+      <PackagePath>css\startPage.css</PackagePath>
+      <Modified>2014-08-26T01:15:47.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Teddy\Documents\C# Server Tests\Pop-Mee\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-29T23:58:52.818</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+[Files]
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\bin\Debug\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\default.html" "default.html"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\images\heart.jpg" "images\heart.jpg"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\images\logo.scale-100.png" "images\logo.scale-100.png"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\images\smalllogo.scale-100.png" "images\smalllogo.scale-100.png"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\images\splashscreen.scale-100.png" "images\splashscreen.scale-100.png"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\images\storelogo.scale-100.png" "images\storelogo.scale-100.png"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\js\default.js" "js\default.js"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\js\jquery-1.11.1.min.js" "js\jquery-1.11.1.min.js"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\js\startPage.js" "js\startPage.js"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\css\startPage.css" "css\startPage.css"
+"C:\Users\Teddy\Documents\C# Server Tests\App1\App1\bin\Debug\resources.pri" "resources.pri"
